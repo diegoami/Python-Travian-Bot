@@ -1,0 +1,49 @@
+Clay Pit
+Woodcutter
+Iron Mine
+Cropland
+Building site
+Warehouse
+Granary
+Main Building
+Cranny
+Marketplace
+level
+Rally point
+Barracks
+Academy
+Blacksmith
+Stable
+Residence
+Troops
+Own troops
+Gauls
+Esperto di Trappole
+Mulino
+Fabbrica di Mattoni
+Falegnameria
+Fonderia
+Forno
+Village
+Tribe:
+Alliance:
+Owner:
+Population:
+Population:
+Villaggi:
+Tag:
+Rank:
+Points:
+Members:
+Circolo degli eroi
+Ufficio commerciale
+Officina
+Castello
+Arena
+Armeria
+Municipio
+Ambasciata
+ArrivoWood:
+Clay:
+Iron:
+Crop:

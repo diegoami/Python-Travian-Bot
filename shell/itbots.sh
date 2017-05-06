@@ -1,0 +1,1 @@
+nohup python -u mainnew.py itaccount.txt 2>&1 > ../public_html/travian/itres.txt &

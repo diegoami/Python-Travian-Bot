@@ -1,0 +1,46 @@
+Hliněný důl
+Dřevorubec
+Železný důl
+Obilné pole
+Staveniště
+Sklad surovin
+Sýpka
+Hlavní budova
+Úkryt
+Tržiště
+úroveň
+Shromaždiště
+Kasárny
+Akademie
+Kovárna
+Stáje
+Rezidence
+Jednotky
+Vlastní jednotky
+Galové
+Esperto di Trappole
+Mulino
+Fabbrica di Mattoni
+Falegnameria
+Fonderia
+Forno
+Místo:
+Národ:
+Aliance:
+Majitel:
+Obyvatelé:
+Populace:
+Vesnic:
+Zkratka:
+Místo:
+Body:
+Členů:
+Circolo degli eroi
+Ufficio commerciale
+Officina
+Castello
+Arena
+Armeria
+Municipio
+Ambasciata
+Arrivo

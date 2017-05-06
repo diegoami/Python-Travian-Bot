@@ -1,0 +1,9 @@
+A1-Monselice -15 -225
+A2-Este -15 -225
+A3-Montagnana -15 -225
+B1-Legnago -14 -227
+B2-Cerea -14 -227
+B3-Sanguinetto -14 -227
+B4-Nogara -14 -233
+C1-Mantova -16 -234
+C2-Piadena -16 -234

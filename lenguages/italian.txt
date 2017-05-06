@@ -1,0 +1,61 @@
+Pozzo d'argilla
+Segheria
+Miniera di ferro
+Campo di grano
+spazio edificabile
+Magazzino
+Granaio
+Centro del villaggio
+Deposito Segreto
+Mercato
+livello
+Caserma
+Campo d'addestramento
+Accademia
+Fabbro
+Scuderia
+Residence
+Truppe
+Proprie truppe
+Galli
+Esperto di Trappole
+Mulino
+Fabbrica di Mattoni
+Falegnameria
+Fonderia
+Forno
+Villaggio
+Popolo:
+Alleanza:
+Proprietario:
+Abitanti:
+Popolazione:
+Villaggi:
+Tag:
+Rank:
+Punti:
+Membri:
+Circolo degli eroi
+Ufficio commerciale
+Officina
+Castello
+Arena
+Armeria
+Municipio
+Ambasciata
+Arrivo
+Calcolo
+Oggetto:
+Data/Ora:
+Attaccante
+Perdite
+Bottino
+Difensore
+Prigionieri
+sufficienti
+Informazioni
+Risorse
+Cavalleria di difesa
+Combattente
+Legionario
+Romani

